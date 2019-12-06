@@ -3,4 +3,7 @@
 Prototypes for designing & testing an immersive mystery experience
 
 ## Prototypes
-1. [Location Test](https://sayskez.github.io/arcadia/case1.html)
+
+### Location Test
+1. [See how it works](location-instructions.pdf)
+2. [Give it a go](https://sayskez.github.io/arcadia/case1.html)
