@@ -29,6 +29,7 @@ p, ul {
 
 b {
     color: #FFE501;
+    opacity: 80%;
 }
 
 a {
@@ -102,11 +103,11 @@ h4 {
     margin: 2em auto 0.4em auto;
 }
 
-.output {
+.output, .message {
     opacity: 60%;
 }
 
-.message, .intro {
+.intro {
     color: #FFE501;
     opacity: 80%;
 }
