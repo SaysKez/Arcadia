@@ -105,6 +105,7 @@ h4 {
 
 .output, .message {
     opacity: 60%;
+    visibility: visible;
 }
 
 .intro {
